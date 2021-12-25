@@ -1,0 +1,139 @@
+{
+  "workspaces": {
+    "Defaut": {
+      "main": {
+        "id": "0eb9835f010bbbd6",
+        "type": "split",
+        "children": [
+          {
+            "id": "b37195c0b8fa26f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "近代史/5G与网络舆论.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b80077aeddaa2283",
+        "type": "split",
+        "children": [
+          {
+            "id": "383bf82613c9a5f8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "af1035ce20234560",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "264a6cd7fac43c08",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fd42519bb2385c86",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "b16217961e8fbc77",
+        "type": "split",
+        "children": [
+          {
+            "id": "106ce095088a3622",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cfefe4f12535e66e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "近代史/5G与网络舆论.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "81300d9d32da92c0",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "近代史/5G与网络舆论.md"
+                  }
+                }
+              },
+              {
+                "id": "46e54080510fcf76",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "3bf2c0ad1f3dc6e3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c43066f8cc486f30",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "b37195c0b8fa26f9"
+    }
+  },
+  "active": "Defaut"
+}

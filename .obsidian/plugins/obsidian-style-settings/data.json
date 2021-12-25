@@ -1,0 +1,17 @@
+{
+  "blue-topaz-theme@@translucent-setting-panel": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-avocado-topaz",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-in-the-sky",
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-sea-and-sky",
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-rectangle",
+  "blue-topaz-theme@@style-options-for-calendar-plugin": "style-options-for-calendar-plugin-style-one",
+  "blue-topaz-theme@@style-options-for-kanban-plugin-static": "style-options-for-kanban-plugin-static-default",
+  "blue-topaz-theme@@style-options-for-kanban-plugin-dynamic": "style-options-for-kanban-plugin-dynamic-neon-one",
+  "blue-topaz-theme@@blur-depth": 12,
+  "blue-topaz-theme@@brightness-4-bg": 1.3,
+  "blue-topaz-theme@@saturate-4-bg": 1.3,
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-in-the-sky",
+  "blue-topaz-theme@@rainbow-lines": false
+}
