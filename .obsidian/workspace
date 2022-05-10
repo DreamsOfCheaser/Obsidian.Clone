@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1f80f11c578f9b83",
+        "id": "3c218170e3fe7e2f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jupyter notebook.md",
-            "mode": "source",
+            "file": "计算机网络/概述.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jupyter notebook.md"
+                "file": "计算机网络/概述.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jupyter notebook.md",
+                "file": "计算机网络/概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jupyter notebook.md",
+                "file": "计算机网络/概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,17 +150,17 @@
     "direction": "horizontal",
     "width": 311
   },
-  "active": "1f80f11c578f9b83",
+  "active": "3c218170e3fe7e2f",
   "lastOpenFiles": [
+    "计算机网络/概述.md",
+    "计算机网络/计算机网络和互联网.md",
     "Jupyter notebook.md",
-    "杨旭东的春秋大梦/设定篇.md",
-    "数电作业/2022.3.16数电作业.md",
-    "数学建模/2022.3.16数电作业.pdf",
-    "数学建模/64 周鑫炜 2204214990 数学建模报告：谷歌搜索问题.pdf",
+    "公式.md",
     "实习期间/Linux基础.md",
-    "2022.3.16数电作业.md",
-    "数学建模报告：谷歌搜索问题.md",
-    "数学建模报告：买车问题.md",
-    "实习期间/AT命令串口通信相关/AT命令.md"
+    "实习期间/AT命令串口通信相关/AT指令与错误列表.md",
+    "实习期间/AT命令串口通信相关/AT命令.md",
+    "杂物/数学建模/数学建模报告：马尔科夫链问题.md",
+    "杂物/软件工程导论/中间件.md",
+    "杂物/杨旭东的春秋大梦/设定篇.md"
   ]
 }
